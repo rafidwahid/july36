@@ -2,7 +2,7 @@
   "name": "quota-reform-movement",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rafidwahid.github.io/36july",
+  "homepage": "https://rafidwahid.github.io/july36/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
